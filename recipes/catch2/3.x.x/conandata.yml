@@ -1,0 +1,4 @@
+sources:
+  3.0.0-preview1:
+    url: https://github.com/catchorg/Catch2/archive/v3.0.0-preview1.tar.gz
+    sha256: DCCD93D3C281DE8E908C9F932C97726B8C25CDAB6B56D6A4112D63A27712641A
